@@ -2,3 +2,7 @@
 *.pot
 *.pyc
 local_settings.py
+.idea
+dev.db
+env/*
+.DS_Store
